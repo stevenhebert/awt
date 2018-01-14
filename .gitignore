@@ -1,0 +1,5 @@
+/.idea
+/node_modules
+/vendor
+/public_html/dist
+/public_html/index.html
